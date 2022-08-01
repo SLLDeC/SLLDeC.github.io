@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sabrina López",
+    "section": "",
+    "text": "Welcome to my website (work in progress)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Also, I have some experience in phenotyping with free text records from the public health system in Buenos Aires City, Argentina.\nMy background is biology (neuroscience)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Conservation status, protected area coverage of Ctenomys (Rodentia, Ctenomyidae) species and molecular identification of a population in a national park\nCaraballo, D. A., Lopez, S. L., Carmaran, A. A., y Rossi, M. S. Mammalian Biology, vol. 100 p. 33, 2020.\npaper code\nThis work collect, review and propose the Ctenomys distribution areas while check for they overlap with protected areas and the conservation status of the species from this genus. This is made using Rstudio, tidyverse, sf and leaflet packages.\n\n\n\nSpatiotemporal perturbations in paced finger tapping suggest a common mechanism for the processing of time errors.\nLopez, S. L., y Laje, R. Scientific Reports, vol. 9, p. 1. B, 2019.\npaper code\n\nIn this paper I present part of my results from my PhD about Sensorimotor synchronization, which is one of the paradigmatic behaviors in millisecond timing, where both perception and generation of time patterns take place. Finger tapping involves a finger indicating the pulse of an external periodic stimulus, similar to when you follow the beat of the music with your foot. The time delay between the response tap and the corresponding stimulus is called asynchrony, which makes up the most important observed variable to describe the synchronization phenomenon. Traditionally, finger tapping tasks propose time perturbations that aim to understand the underlying mechanism of error correction. These alterations are achieved by modifying the external stimulus (e.g. it’s period), which presents a limitation as this type of perturbations generates a change in the stimulus parameter (the period), as well as in the variable itself (asynchrony). This study, through the design and construction of a novel device, proposes a new class of time perturbations that originate after a change in the spatial aspects of the task. By shifting the height of the contact point, it’s possible to generate asynchronies without having to modify the stimulus’ period or to alter the period without producing a forced error. This represents a new tool for behavior characterization and the construction of correction theoretic models, as it allows to decouple the effects of traditional time perturbations. It also has implications in other sensorimotor synchronization areas, such as music production and perception, and gait coordination. These disturbances give access to states of the system that were traditionally inaccessible and solve a confounding that has persisted for decades.\nThe experiment and data acquisition where performed with arduino and Matlab, and data analysis with Matlab.\n\n\n\nVocal caricatures reveal signatures of speaker identity.\nLopez S. L.; Riera, P.; Assaneo, MF.; Eguia, M.; Sigman, M. y Trevisan, M. Scientific Reports, vol. 3, p. 3407, 2013.\npaper\nThis is my undergrad thesis"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "2021 Doctor of Philosophy\nUniversity of Buenos Aires, School of Sciences, Buenos Aires, Argentina.\nThesis: Sensorimotor synchronization. Spatiotemporal perturbations in paced finger tapping task.\nMentor: Rodrigo Laje, Ph.D.\nInstitution: Sensorimotor Dynamics Lab, Science and Technology Department, University of Quilmes, Buenos Aires, Argentina.\n\n\n2014 Higher and Secondary Education Biology Professor\nUniversity of Buenos Aires, Department of Science Teaching, Buenos Aires, Argentina.\n\n\n2013 Bachelor of Science in Biology\nUniversity of Buenos Aires, School of Sciences, Buenos Aires, Argentina.\nDiploma: Biologist (6-year career equivalent to a Bachelor in Biology and Master in\nMolecular Biology).\nThesis: Psicoacústica y anatomía de la imitación vocal en humanos.\nMentor: Marcos Trevisan, Ph.D.\nInstitution: Dynamical Systems Lab, School of Sciences, Physics Department, University of Buenos Aires\nArgentina."
+  },
+  {
+    "objectID": "CV.html#professional-service",
+    "href": "CV.html#professional-service",
+    "title": "CV",
+    "section": "PROFESSIONAL SERVICE",
+    "text": "PROFESSIONAL SERVICE"
+  },
+  {
+    "objectID": "CV.html#funding",
+    "href": "CV.html#funding",
+    "title": "CV",
+    "section": "FUNDING",
+    "text": "FUNDING\n2021-2024 Postdoctoral Fellowship, CONICET at Instituto de Cálculo (CONICET-University of Buenos Aires), Buenos Aires, Argentina.\nMentor: Laura Ación, Ph.D.\n2014-2019 Doctoral Fellowship, CONICET at Sensorimotor Dynamics Lab, Science and Technology Department, University of Quilmes, Buenos Aires, Argentina.\nMentor: Rodrigo Laje, Ph.D.\n2010-2013 Sadosky Scholarship, School of Sciences, University of Buenos Aires.\n2009-2010 Sarmiento Scholarship, University of Buenos Aires."
+  },
+  {
+    "objectID": "CV.html#languages",
+    "href": "CV.html#languages",
+    "title": "CV",
+    "section": "LANGUAGES",
+    "text": "LANGUAGES\nSpanish native\nEnglish intermediate\nPortuguese basic"
+  }
+]
